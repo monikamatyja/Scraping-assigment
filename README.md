@@ -1,2 +1,2 @@
 # Scraping-assigment
-I scraped the website with board game
+I scraped the website with board games
